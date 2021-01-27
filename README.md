@@ -1,1 +1,2 @@
-# forks_pharma for Gangsta
+# forks_pharma
+# School exercice
